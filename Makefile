@@ -1,2 +1,2 @@
-all: box_muller.cc
-	g++ box_muller.cc -o bm
+all: 
+	g++ test.cc box_muller.cc -o test

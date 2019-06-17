@@ -1,1 +1,3 @@
-quick and dirty box muller implementation
+quick and dirty box muller implementation.
+
+please see the test.cc utility, which should print 10 pairs of normally distributed random numbers
